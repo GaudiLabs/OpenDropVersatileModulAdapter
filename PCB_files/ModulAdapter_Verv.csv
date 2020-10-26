@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"MiniDimm_06_244_200";1;"Mini_Dimm_244";;;
+2;"U4,U2";"PQFP-80_14x20mm_Pitch0.8mm";2;"HV507";;;
+3;"C12,C13";"C_0805";2;"100nF";;;
+4;"P13,P17";"MountingHoleM3";2;"ScrewPad1";;;
+5;"P14,P15";"MountingHoleM3";2;"ScrewPad2";;;
+6;"J2";"FFC_MOLEX_EASYON_05mm_24";1;"Conn_01x24_Female";;;
+7;"P1,P2,+3V3,GND";"Measurement_Point_Square-SMD-Pad_Small";4;"ScrewPad2";;;
